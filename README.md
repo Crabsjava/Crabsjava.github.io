@@ -17,10 +17,11 @@ Things On Crab Hosting
 4. Fast And Reliable
 
 ⋅⋅⋅join discord server: https://discord.gg/TMWrwCZg77
+
 ⋅⋅⋅we insure you that in crab hosting your data is secured
 ⋅⋅⋅crab hosting is Fast, Reliable, Secured,
 
-* Unordered list can use asterisks
+* Servers Deployed:
 - 179 servers has been deployed in Philippines
 + 267+ servers around the world
 
