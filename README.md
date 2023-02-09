@@ -1,4 +1,4 @@
-# Crabs LLC
+# Crabs Hosting 
  
 ## Crabs Hosting Is An Hosting That Is Focusing On Game Hosting Such As GTA SA:MP, Minecraft Bedrock/Java Edition Servers And More
 
