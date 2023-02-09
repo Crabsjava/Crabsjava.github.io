@@ -23,6 +23,7 @@ Things On Crab Hosting
 ⋅⋅⋅join discord server: https://discord.gg/TMWrwCZg77
 
 ⋅⋅⋅we insure you that in crab hosting your data is secured
+
 ⋅⋅⋅crab hosting is Fast, Reliable, Secured,
 
 * Servers Deployed:
