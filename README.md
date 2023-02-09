@@ -27,7 +27,7 @@ Things On Crab Hosting
 ⋅⋅⋅crab hosting is Fast, Reliable, Secured,
 
 * Servers Deployed:
-- 179 servers has been deployed in Philippines
+- 179 servers has been deployed in The Philippines
 + 267+ servers around the world
 
 Join the other users and use crab hosting now!
