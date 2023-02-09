@@ -1,6 +1,6 @@
 # Crabs LLC
  
-## Crabs LLC Is An Company That Is Focusing On Game Hosting Such As GTA SA:MP, Minecraft Bedrock/Java Edition Servers And More
+## Crabs Hosting Is An Hosting That Is Focusing On Game Hosting Such As GTA SA:MP, Minecraft Bedrock/Java Edition Servers And More
 
 ### Crabs Hosting Also Offer Gamedev Service 
 
@@ -8,7 +8,7 @@
 
 ##### Created By Crabs 
 
-###### Created With ♥️ By Crabs LLC 
+###### Created With ♥️ By Crabs
 
 
 Things On Crab Hosting
