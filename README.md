@@ -5,35 +5,26 @@
 ##### Created By Crabs 
 ###### Created With ♥️ By Crabs LLC 
 
-Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
+Things On Crab Hosting
 ======
 
-Alt-H2
-------
 
-1. First ordered list item
-2. Another item
+1. Host A Game Server 
+2. Playable Servers
 ⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. 300+ servers has been deployed 
+4. Fast And Reliable
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+⋅⋅⋅join discord server: https://discord.gg/TMWrwCZg77
+⋅⋅⋅we insure you that in crab hosting your data is secured
+⋅⋅⋅crab hosting is Fast, Reliable, Secured,
 
 * Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+- 179 servers has been deployed in Philippines
++ 267+ servers around the world
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Join the other users and use crab hosting now!
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+# Crab Hosting Is Resuming Its Service In February 16 2023 (Philippine Time)
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
